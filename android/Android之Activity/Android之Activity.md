@@ -24,7 +24,7 @@
 
 - 如何将一个 **Activity** 设置成窗口的样式？
 
-​       `android:theme="@android:style/Theme.Dialog"`
+   ​       `android:theme="@android:style/Theme.Dialog"`
 
 - ###### Android中的 **Context**, **Activity**,**Appliction** 有什么区别？
 
