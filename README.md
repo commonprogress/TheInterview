@@ -4,20 +4,8 @@
 
 [Java面试题](./java)
 
--   [java常见算法](./java/java常见算法)
-
-  ​         [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
-
-  ​         [冒泡排序](https://blog.csdn.net/github_34402358/article/details/89088045)
-
-  ​         [选择排序](https://blog.csdn.net/github_34402358/article/details/89088045)
-
-  ​         [插入排序](https://blog.csdn.net/github_34402358/article/details/89088045)
-
-  ​          [归并排序](https://blog.csdn.net/github_34402358/article/details/89088045)
-
-  ​          [二分查找算法](https://blog.csdn.net/github_34402358/article/details/89084869)
-
+- [java常见算法](./java/java常见算法)
+        
 - [java多线程相关](./java/java多线程相关)
 
 - [java集合类相关](./java/java集合类相关)
@@ -30,8 +18,8 @@
 
 [Android面试题](./android)
 
--  [Android各个版本的特性](./android/Android各个版本的特性)
-- [ Android自定义View](./android/Android自定义View)
+- [Android各个版本的特性](./android/Android各个版本的特性)
+- [Android自定义View](./android/Android自定义View)
 - [Android的事件分发机制](./android/Android的事件分发机制)
 - [Android之Activity](./android/Android之Activity)
 - [Android之Fragment](./android/Android之Fragment)
