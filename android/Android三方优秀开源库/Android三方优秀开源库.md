@@ -1,6 +1,6 @@
 Android三方优秀开源库
 
-- [transferee](./https://github.com/Hitomis/transferee)
+- ##### [transferee](./https://github.com/Hitomis/transferee) 图片展示
 
   效果图：
 
@@ -20,11 +20,11 @@ Android三方优秀开源库
   - 支持 Gif 图预览
   - 支持拖拽关闭
 
-- [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo)
+- #### [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo) 视频录制
 
   效果图：
 
-  ![demo1](./demo1.png)![demo1](./demo2.png)
+  ![demo1](./gif/demo1.png)![demo1](./gif/demo2.png)
 
   支持的功能:
 

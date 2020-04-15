@@ -12,7 +12,15 @@
 
   Content Provider ：内容提供者，它是用在不同的应用程序之间共享数据时，可以把一个应用的数据提供给其他的应用使用。
 
--  Activity的启动模式
+- Activity的启动模式
+
+   说道启动模式之前，首先要讲一讲 队列和栈
+
+   **队列：** 先进先出
+
+   **栈**：后进先出
+
+   
 
    standard、singleTop、singleTask、singleInstance
 
@@ -32,4 +40,10 @@
   Context 从字面上理解就是上下文的意思,在实际应用中它也确实是起到了管理 上下文环境中各个参数和变量的总用,方便我们可以简单的访问到各种资源。
 
   **不同**:维护的生命周期不同。Context 维护的是当前的 Activity 的生命周期, Application 维护的是整个项目的生命周期。
+  
+- ###### 如何退出 Activity?如何安全退出已调用多个 Activity
+
+   1. 通常情况用户退出一个 Activity，直接调用 finish()。
+   2. 递归退出
+   3. 记录打开的 Activity:
 
