@@ -12,6 +12,6 @@
 
   不同点：
 
-  1.  add 把Fragment添加到一个容器Container
+  1. add 把Fragment添加到一个容器Container
 
   2. replace 先remove相同id的所有Fragment，然后在add当前这个Fragment
