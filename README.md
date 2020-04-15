@@ -4,6 +4,13 @@
 
 [Java面试题](./java)
 
+-   [java常见算法](./java/java常见算法)
+- [java多线程相关](./java/java多线程相关)
+- [java集合类相关](./java/java集合类相关)
+- [设计模式](./java/设计模式)
+- [java之jvm](./java/java之jvm)
+- [java之String源码分析](./java/java之String源码分析)
+
 [Android面试题](./android)
 
 -  [Android各个版本的特性](./android/Android各个版本的特性)
