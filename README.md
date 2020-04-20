@@ -5,14 +5,12 @@
 [Java面试题](./java)
 
 -   [java常见算法](./java/java常见算法)
-
        - [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
        - [冒泡排序](https://blog.csdn.net/github_34402358/article/details/89088045)
        - [选择排序](https://blog.csdn.net/github_34402358/article/details/89088045)
        - [插入排序](https://blog.csdn.net/github_34402358/article/details/89088045)
        - [归并排序](https://blog.csdn.net/github_34402358/article/details/89088045)
        - [二分查找算法](https://blog.csdn.net/github_34402358/article/details/89084869)
-
 - [java多线程相关](./java/java多线程相关)
 - [java集合类相关](./java/java集合类相关)
 - [设计模式](./java/设计模式)
@@ -61,6 +59,8 @@
    - [Android之保活](https://blog.csdn.net/github_34402358/article/details/103386045)
    - [Android之拉活](https://blog.csdn.net/github_34402358/article/details/103392575)
 - [Android之ANR问题](./android/Android之ANR问题)
+   - [Android之ANR问题产生的原因](./android/Android之ANR问题/Android之ANR问题产生的原因)
+   - [Android之如何解决ANR问题](./android/Android之ANR问题/Android之如何解决ANR问题)
 - [Android之热修复](./android/Android之热修复)
    - [Android之市面上的热修复技术](./android/Android之热修复/Android之市面上的热修复技术)
    - [Android之市面上的热修复技术的实现原理](./android/Android之热修复/Android之市面上的热修复技术的实现原理)
