@@ -62,6 +62,8 @@
    - [Android之拉活](https://blog.csdn.net/github_34402358/article/details/103392575)
 - [Android之ANR问题](./android/Android之ANR问题)
 - [Android之热修复](./android/Android之热修复)
+   - [Android之市面上的热修复技术](./android/Android之热修复/Android之市面上的热修复技术)
+   - [Android之市面上的热修复技术的实现原理](./android/Android之热修复/Android之市面上的热修复技术的实现原理)
 
 [Ios面试题](./ios)
 
