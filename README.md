@@ -42,6 +42,8 @@
 - [App的启动流程](./android/App的启动流程)
 - [Android之适配](./android/Android之适配)
 - [Android之Handler详解](./android/Android之Handler详解)
+   - [Android Handler消息机制原理最全解读](https://blog.csdn.net/wsq_tomato/article/details/80301851)
+   - [Handler进阶之sendMessage原理探索](https://blog.csdn.net/wsq_tomato/article/details/80893990)
 - [Android之数据库](./android/Android之数据库)
    - [Android数据库之Room](./android/Android之数据库/Android数据库之Room/Android数据库之Room.md)
 - [源码解析](./android/源码解析)
