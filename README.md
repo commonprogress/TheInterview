@@ -20,6 +20,7 @@
 - [java多线程相关](./java/java多线程相关)
    - [java多线程大集合](./android/java多线程相关/java多线程大集合/java多线程大集合.md)
    - [Java并发基础知识](./android/java多线程相关/Java并发基础知识/Java并发基础知识.md)
+   - [java之synchronized和volatile的区别](./android/java多线程相关/java之synchronized和volatile的区别/java之synchronized和volatile的区别.md)
 - [java集合类相关](./java/java集合类相关)
    - [ArrayList源码剖析](./android/ArrayList源码剖析/ArrayList源码剖析.md)
    - [LinkedList源码剖析](./android/LinkedList源码剖析/LinkedList源码剖析.md)
