@@ -10,7 +10,7 @@
    - [Java数据结构](https://blog.csdn.net/github_34402358/article/details/90049024)
    - [Java的反射机制](https://blog.csdn.net/github_34402358/article/details/79409899)
 - [java常见算法](./java/java常见算法)
-   
+  
    - [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
    - [冒泡排序](https://blog.csdn.net/github_34402358/article/details/89088045)
    - [选择排序](https://blog.csdn.net/github_34402358/article/details/89088045)
@@ -18,9 +18,9 @@
    - [归并排序](https://blog.csdn.net/github_34402358/article/details/89088045)
    - [二分查找算法](https://blog.csdn.net/github_34402358/article/details/89084869)
 - [java多线程相关](./java/java多线程相关)
-   - [java多线程大集合](./android/java多线程相关/java多线程大集合/java多线程大集合.md)
-   - [Java并发基础知识](./android/java多线程相关/Java并发基础知识/Java并发基础知识.md)
-   - [java之synchronized和volatile的区别](./android/java多线程相关/java之synchronized和volatile的区别/java之synchronized和volatile的区别.md)
+   - [java多线程大集合](./java/java多线程相关/java多线程大集合/java多线程大集合.md)
+   - [Java并发基础知识](./java/java多线程相关/Java并发基础知识/Java并发基础知识.md)
+   - [java之synchronized和volatile的区别](./java/java多线程相关/java之synchronized和volatile的区别/java之synchronized和volatile的区别.md)
 - [java集合类相关](./java/java集合类相关)
    - [ArrayList源码剖析](./android/ArrayList源码剖析/ArrayList源码剖析.md)
    - [LinkedList源码剖析](./android/LinkedList源码剖析/LinkedList源码剖析.md)
@@ -95,7 +95,7 @@
    - [Android Handler消息机制原理最全解读](https://blog.csdn.net/wsq_tomato/article/details/80301851)
    - [Handler进阶之sendMessage原理探索](https://blog.csdn.net/wsq_tomato/article/details/80893990)
 - [Android之数据库](./android/Android之数据库)
-   
+  
    - [Android数据库之Room](./android/Android之数据库/Android数据库之Room/Android数据库之Room.md)
 - [源码解析](./android/源码解析)
    - [Retrofit源码分析](./android/源码解析/Retrofit源码分析)
