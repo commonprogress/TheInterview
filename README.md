@@ -5,7 +5,7 @@
 [Java面试题](./java)
 - [java基础知识](./java/java基础知识)
    - [Java基础知识一](./java/java基础知识/java基础知识一/java基础知识一.md)
-   - [Java基础知识二](./java/Java基础知识/java基础知识二/java基础知识二.md)
+   - [Java基础知识二](./java/java基础知识/java基础知识二/java基础知识二.md)
    - [什么是缓存？](https://blog.csdn.net/github_34402358/article/details/90575375)
 - [java常见算法](./java/java常见算法)
    - [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
