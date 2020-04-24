@@ -59,7 +59,9 @@
 - [java之String源码分析](https://blog.csdn.net/github_34402358/article/details/88259890)
 
 [Android面试题](./android)
-
+- [java基础知识](./java/java基础知识)
+   - [谈谈MVC、MVP和MVVM的优缺点](https://blog.csdn.net/github_34402358/article/details/88735473)
+   - [Serializable和Parcelable的优缺点](https://blog.csdn.net/github_34402358/article/details/88288648)
 -  [Android各个版本的特性](./android/Android各个版本的特性)
    - [Android6.0](./android/Android各个版本的特性/Android6.0.md)
    - [Android7.0](./android/Android各个版本的特性/Android7.0.md)
