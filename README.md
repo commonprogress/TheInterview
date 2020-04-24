@@ -5,14 +5,10 @@
 [Java面试题](./java)
 - [java基础知识](./java/java基础知识)
    - [Java基础知识一](./java/java基础知识/java基础知识一/java基础知识一.md)
-   
    - [Java基础知识二](./java/java基础知识/java基础知识二/java基础知识二.md)
-   
    - [什么是缓存？](https://blog.csdn.net/github_34402358/article/details/90575375)
-   
    - [Java数据结构](https://blog.csdn.net/github_34402358/article/details/90049024)
-   
-   - ######  [Java的反射机制](https://blog.csdn.net/github_34402358/article/details/79409899)
+   - [Java的反射机制](https://blog.csdn.net/github_34402358/article/details/79409899)
 - [java常见算法](./java/java常见算法)
    
    - [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
@@ -68,14 +64,10 @@
 [Android面试题](./android)
 
 - [Android基础知识](./Android/Android基础知识)
-   
    - [谈谈MVC、MVP和MVVM的优缺点](https://blog.csdn.net/github_34402358/article/details/88735473)
-   
    - [Serializable和Parcelable的优缺点](https://blog.csdn.net/github_34402358/article/details/88288648)
-   
-   - ###### [android 获取assets目录下文件的路径](https://blog.csdn.net/github_34402358/article/details/89306689)
-   
-   - ###### **[onNewIntent()调用时机？singleTop和singleTask的区别以及应用场景](https://blog.csdn.net/github_34402358/article/details/88720328)**
+   - [android 获取assets目录下文件的路径](https://blog.csdn.net/github_34402358/article/details/89306689)
+   - [onNewIntent()调用时机？singleTop和singleTask的区别以及应用场景](https://blog.csdn.net/github_34402358/article/details/88720328)**
 -  [Android各个版本的特性](./android/Android各个版本的特性)
    
    - [Android6.0](./android/Android各个版本的特性/Android6.0.md)
