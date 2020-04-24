@@ -30,7 +30,7 @@
    - [JVM类加载机制](./android/JVM类加载机制/JVM类加载机制.md)
    - [Java内存区域与内存溢出](./android/Java内存区域与内存溢出/Java内存区域与内存溢出.md)   
    - [Java垃圾回收算法](./android/Java垃圾回收算法/Java垃圾回收算法.md)
-- [java之String源码分析](./java/java之String源码分析)
+- [java之String源码分析](https://blog.csdn.net/github_34402358/article/details/88259890)
 
 [Android面试题](./android)
 
