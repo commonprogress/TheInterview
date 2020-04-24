@@ -29,8 +29,8 @@
    - [HashMap源码剖析](./android/HashMap源码剖析/HashMap源码剖析.md)
    - [HashTable源码剖析](./android/HashTable源码剖析/HashTable源码剖析.md)
    - [LinkedHashMap源码剖析](./android/LinkedHashMap源码剖析/LinkedHashMap源码剖析.md)
-- [设计模式](./java/设计模式)
-   - [面向对象六大原则]()
+- [设计模式]
+   - [面向对象六大原则]
       - [单一职责原则]：一个类应该仅有一个引起它变化的原因。
       - [开放关闭原则]：一个类应该对外扩展开放，对修改关闭。
       - [里氏替换原则]：一个子类型能够替换掉它们的父类型。
