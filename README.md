@@ -10,6 +10,11 @@
    - [什么是缓存？](https://blog.csdn.net/github_34402358/article/details/90575375)
    - [Java数据结构](https://blog.csdn.net/github_34402358/article/details/90049024)
    - [Java的反射机制](https://blog.csdn.net/github_34402358/article/details/79409899)
+   - TCP三次握手，四次挥手
+   - DNS解析过程
+   - Http和Https的区别
+   - Https的建立连接过程
+   - Https中数据传输是对称加密还是非对称加密？
 - [java常见算法]
   - [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
    - [冒泡排序](https://blog.csdn.net/github_34402358/article/details/89088045)
@@ -21,6 +26,10 @@
    - [java多线程大集合](./java/java多线程相关/java多线程大集合/java多线程大集合.md)
    - [Java并发基础知识](./java/java多线程相关/Java并发基础知识/Java并发基础知识.md)
    - [java之synchronized和volatile的区别](./java/java多线程相关/java之synchronized和volatile的区别/java之synchronized和volatile的区别.md)
+   - synchronized和ReentrantLock的实现差异
+   - ThreadLocal实现原理
+   - Java线程池默认提供了哪些类型？分别适合什么场景？
+   - Java线程中interrupt()、interrupted()和isInterrupted()分别代表什么意思？
 - [java集合类相关]
    - [ArrayList源码剖析](./android/ArrayList源码剖析/ArrayList源码剖析.md)
    - [LinkedList源码剖析](./android/LinkedList源码剖析/LinkedList源码剖析.md)
@@ -29,6 +38,11 @@
    - [HashMap源码剖析](./android/HashMap源码剖析/HashMap源码剖析.md)
    - [HashTable源码剖析](./android/HashTable源码剖析/HashTable源码剖析.md)
    - [LinkedHashMap源码剖析](./android/LinkedHashMap源码剖析/LinkedHashMap源码剖析.md)
+   - SparyArray和ArrayMap的实现原理？
+   - ConcurrentHashMap的1.7和1.8版本差异
+   - ArrayDeque实现原理
+   - Java Object中有哪些方法？equals和hashCode方法什么时候会被重写？
+   - CAS实现原理
 - [设计模式]
    - [面向对象六大原则]
       - [单一职责原则]：一个类应该仅有一个引起它变化的原因。
@@ -74,7 +88,20 @@
    - [谈谈MVC、MVP和MVVM的优缺点](https://blog.csdn.net/github_34402358/article/details/88735473)
    - [Serializable和Parcelable的优缺点](https://blog.csdn.net/github_34402358/article/details/88288648)
    - [android 获取assets目录下文件的路径](https://blog.csdn.net/github_34402358/article/details/89306689)
-   - [onNewIntent()调用时机？singleTop和singleTask的区别以及应用场景](https://blog.csdn.net/github_34402358/article/details/88720328)**
+   - [onNewIntent()调用时机？singleTop和singleTask的区别以及应用场景](https://blog.csdn.net/github_34402358/article/details/88720328)
+   - Apk打包流程（点击 Android Studio 的 build 按钮后发生了什么 ）
+   - Apk安装过程
+   - 屏幕反转Activity的生命周期变化
+   - Picasso与Glide的区别（缓存的差异性）
+   - Android APK为什么不可以在IOS上运行，如何设计可以让其运行？
+   - Android系统设计为什么要用虚拟机不直接执行机器码？
+   - 通过虚拟机运行和直接执行机器码的差异性其各自的优势在哪里？
+   - Dalvik和ART的区别
+   - Native生命周期如何通知到Web？
+   - SurfaceView和TextureView的区别
+   - Surface为什么要用双缓冲机制？
+   - Bitmap大图加载的优化策略？
+   - SharePreference的commit和apply的区别
 -  [Android各个版本的特性]
    - [Android6.0](./android/Android各个版本的特性/Android6.0.md)
    - [Android7.0](./android/Android各个版本的特性/Android7.0.md)
@@ -99,6 +126,10 @@
 - [Android之Handler详解]
    - [Android Handler消息机制原理最全解读](https://blog.csdn.net/wsq_tomato/article/details/80301851)
    - [Handler进阶之sendMessage原理探索](https://blog.csdn.net/wsq_tomato/article/details/80893990)
+   - Handler同步屏障，IdleHandler
+   - Looper可以在子线程创建吗?
+   - Handler如何实现对于消息的定时发送
+   - HandlerThread的实现原理
 - [Android之数据库]
   - [Android数据库之Room](./android/Android之数据库/Android数据库之Room/Android数据库之Room.md)
 - [源码解析]
