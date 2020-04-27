@@ -10,11 +10,11 @@
    - [什么是缓存？](https://blog.csdn.net/github_34402358/article/details/90575375)
    - [Java数据结构](https://blog.csdn.net/github_34402358/article/details/90049024)
    - [Java的反射机制](https://blog.csdn.net/github_34402358/article/details/79409899)
-   - TCP三次握手，四次挥手
-   - DNS解析过程
-   - Http和Https的区别
-   - Https的建立连接过程
-   - Https中数据传输是对称加密还是非对称加密？
+   - [TCP三次握手，四次挥手](https://blog.csdn.net/qq_38950316/article/details/81087809)
+   - [DNS解析过程](https://www.jianshu.com/p/401f34691dcc)
+   - [Http和Https的区别](https://blog.csdn.net/qq_38289815/article/details/80969419)
+   - [Https的建立连接过程](https://blog.csdn.net/qq_38289815/article/details/80969419)
+   - [Https中数据传输是对称加密还是非对称加密](https://www.cnblogs.com/lfri/p/12593232.html)？
 - [java常见算法]
   - [约瑟夫算法](https://blog.csdn.net/github_34402358/article/details/79423570)
    - [冒泡排序](https://blog.csdn.net/github_34402358/article/details/89088045)
@@ -26,10 +26,10 @@
    - [java多线程大集合](./java/java多线程相关/java多线程大集合/java多线程大集合.md)
    - [Java并发基础知识](./java/java多线程相关/Java并发基础知识/Java并发基础知识.md)
    - [java之synchronized和volatile的区别](./java/java多线程相关/java之synchronized和volatile的区别/java之synchronized和volatile的区别.md)
-   - synchronized和ReentrantLock的实现差异
-   - ThreadLocal实现原理
-   - Java线程池默认提供了哪些类型？分别适合什么场景？
-   - Java线程中interrupt()、interrupted()和isInterrupted()分别代表什么意思？
+   - [synchronized和ReentrantLock的实现差异](https://www.cnblogs.com/cxzdgs/p/5746895.html)
+   - [ThreadLocal实现原理](https://www.jianshu.com/p/69ae8c213b30)
+   - [Java线程池默认提供了哪些类型？分别适合什么场景？](https://blog.csdn.net/w05980598/article/details/79425071)
+   - [Java线程中interrupt()、interrupted()和isInterrupted()分别代表什么意思？](https://www.cnblogs.com/huangyichun/p/7126851.html)
 - [java集合类相关]
    - [ArrayList源码剖析](./android/ArrayList源码剖析/ArrayList源码剖析.md)
    - [LinkedList源码剖析](./android/LinkedList源码剖析/LinkedList源码剖析.md)
