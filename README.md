@@ -38,11 +38,11 @@
    - [HashMap源码剖析](./android/HashMap源码剖析/HashMap源码剖析.md)
    - [HashTable源码剖析](./android/HashTable源码剖析/HashTable源码剖析.md)
    - [LinkedHashMap源码剖析](./android/LinkedHashMap源码剖析/LinkedHashMap源码剖析.md)
-   - SparyArray和ArrayMap的实现原理？
-   - ConcurrentHashMap的1.7和1.8版本差异
-   - ArrayDeque实现原理
-   - Java Object中有哪些方法？equals和hashCode方法什么时候会被重写？
-   - CAS实现原理
+   - [SparyArray和ArrayMap的实现原理？](https://www.jianshu.com/p/099ae5b1fd5a)
+   - [ConcurrentHashMap的1.7和1.8版本差异](https://blog.csdn.net/hao_yunfeng/article/details/82535009)
+   - [ArrayDeque实现原理](https://www.jianshu.com/p/ac78d5b871cb)
+   - [Java Object中有哪些方法？equals和hashCode方法什么时候会被重写？](https://blog.csdn.net/river66/article/details/87803663)
+   - [CAS实现原理](https://www.cnblogs.com/javalyy/p/8882172.html)
 - [设计模式]
    - [面向对象六大原则]
       - [单一职责原则]：一个类应该仅有一个引起它变化的原因。
