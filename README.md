@@ -91,8 +91,8 @@
    - [onNewIntent()调用时机？singleTop和singleTask的区别以及应用场景](https://blog.csdn.net/github_34402358/article/details/88720328)
    - [Apk打包流程（点击 Android Studio 的 build 按钮后发生了什么 ）](https://blog.csdn.net/github_34402358/article/details/105953645)
    - [Apk安装过程](https://blog.csdn.net/github_34402358/article/details/105954174)
-   - 屏幕反转Activity的生命周期变化
-   - Picasso与Glide的区别（缓存的差异性）
+   - [屏幕反转Activity的生命周期变化](https://www.jianshu.com/p/5d038fb26f50)
+   - [Picasso与Glide的区别（缓存的差异性）](https://blog.csdn.net/github_34402358/article/details/105955743)
    - Android APK为什么不可以在IOS上运行，如何设计可以让其运行？
    - Android系统设计为什么要用虚拟机不直接执行机器码？
    - 通过虚拟机运行和直接执行机器码的差异性其各自的优势在哪里？
