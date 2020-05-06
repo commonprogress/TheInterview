@@ -101,7 +101,7 @@
    - SurfaceView和TextureView的区别
    - Surface为什么要用双缓冲机制？
    - Bitmap大图加载的优化策略？
-   - SharePreference的commit和apply的区别
+   - [SharePreference的commit和apply的区别](./android/Android面试题/Android基础知识/SharePreference的commit和apply的区别/SharePreference的commit和apply的区别.md)
 -  [Android各个版本的特性]
    - [Android6.0](./android/Android各个版本的特性/Android6.0.md)
    - [Android7.0](./android/Android各个版本的特性/Android7.0.md)
