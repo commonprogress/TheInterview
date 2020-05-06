@@ -89,8 +89,8 @@
    - [Serializable和Parcelable的优缺点](https://blog.csdn.net/github_34402358/article/details/88288648)
    - [android 获取assets目录下文件的路径](https://blog.csdn.net/github_34402358/article/details/89306689)
    - [onNewIntent()调用时机？singleTop和singleTask的区别以及应用场景](https://blog.csdn.net/github_34402358/article/details/88720328)
-   - Apk打包流程（点击 Android Studio 的 build 按钮后发生了什么 ）
-   - Apk安装过程
+   - [Apk打包流程（点击 Android Studio 的 build 按钮后发生了什么 ）](https://blog.csdn.net/github_34402358/article/details/105953645)
+   - [Apk安装过程](https://blog.csdn.net/github_34402358/article/details/105954174)
    - 屏幕反转Activity的生命周期变化
    - Picasso与Glide的区别（缓存的差异性）
    - Android APK为什么不可以在IOS上运行，如何设计可以让其运行？
